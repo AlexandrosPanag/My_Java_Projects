@@ -13,4 +13,10 @@ Example input text "balloon" after compiling the code, the result will be "nooll
 Two Dice Rolls
 ---
  An easy solution of how we can create randomly generated numbers within a specific range
- can also be used as a dice rolling game
+ can also be used as a dice rolling game.
+
+
+
+User Input
+---
+ A basic program which can receive and output user-input.
