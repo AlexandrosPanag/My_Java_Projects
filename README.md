@@ -1,5 +1,6 @@
 My Java Projects
 ---
+Credits: [@alexandrospanag](https://github.com/alexandrospanag)
 
 ✅ LinkedIn Skill Assessment badge
 https://www.linkedin.com/in/αλέξανδρος-παναγιωτακόπουλος/
