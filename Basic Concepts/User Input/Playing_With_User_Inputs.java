@@ -1,9 +1,8 @@
 // By Alexandros panagiotakopoulos - alexandrospanag.github.io
 
-package com.mycompany.mavenproject1; 
 import javax.swing.*;
 
-public class Mavenproject1 {
+public class exampleproject {
 
     public static void main(String[] args) {
    String firstname,secondname;
