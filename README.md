@@ -6,7 +6,6 @@ Credits: [@alexandrospanag](https://github.com/alexandrospanag)
 https://www.linkedin.com/in/αλέξανδρος-παναγιωτακόπουλος/
 
 
-!----- REMASTERED REPOSITORY MORE CODES AND UPDATES IN PROGRESS -------------!
 
 What is Java?
 ----
