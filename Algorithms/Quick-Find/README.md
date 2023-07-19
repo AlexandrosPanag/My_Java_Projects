@@ -5,4 +5,4 @@ This quick find algorithm is called eager algorithm to solve so called dynamic c
 
 THIS ARTICLE WAS TAKEN FROM & CAN BE FOUND HERE TO READ MORE INFORMATION: https://regenerativetoday.com/union-find-data-structure-quick-find-algorithm/
 
-This is an a Java implementation of how the algorithm works.
+This is a Java implementation of how the algorithm works.
