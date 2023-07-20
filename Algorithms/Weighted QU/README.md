@@ -11,7 +11,7 @@ Running time.
 ・Union: takes constant time, given roots.
 Proposition. Depth of any node x is at most lg N.
 
-| algorithm | initialize | union | connected |
+| Algorithm | Initialize | Union | Connected |
 | --------------- | ---------------- | --------------- | --------------- |
 | quick-find | N | N | 1 |
 | quick-union | N | N † | N |
