@@ -22,11 +22,7 @@ Linear-time algorithm for M union-find ops on N objects?
 ・In theory, WQUPC is not quite linear.
 ・In practice, WQUPC is linear.
 Amazing fact. [Fredman-Saks] No linear-time algorithm exists.
-| Algorithm | Initialize | Union | Connected |
-| --------------- | ---------------- | --------------- | --------------- |
-| quick-find | N | N | 1 |
-| quick-union | N | N † | N |
-| weighted QU | N | lg N † | lg N |
+
 
 | Algorithm | Worst-case time
 | --------------- | ---------------- | 
