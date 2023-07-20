@@ -28,3 +28,11 @@ Amazing fact. [Fredman-Saks] No linear-time algorithm exists.
 | quick-union | N | N † | N |
 | weighted QU | N | lg N † | lg N |
 
+| Algorithm | Worst-case time
+| --------------- | ---------------- | 
+| quick-find | M N |
+| quick-union | M N |
+| weighted QU | N + M log N |
+| QU + path compression | N + M log N |
+| Weighted QU + path compression | N + M lg* N |
+
