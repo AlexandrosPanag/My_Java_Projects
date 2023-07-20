@@ -24,3 +24,4 @@ THIS ARTICLE WAS TAKEN FROM & CAN BE FOUND HERE: https://www.java.com/en/downloa
 | --------------- | ---------------- |
 | APACHE NETBEANS | [Download Link](http://netbeans.apache.org) |
 | BLUE-J | [Download Link](https://www.bluej.org) |
+| LIFT-CS | [Download Link](https://lift.cs.princeton.edu/java/windows/) |
