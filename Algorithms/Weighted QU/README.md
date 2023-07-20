@@ -12,7 +12,7 @@ Running time.
 Proposition. Depth of any node x is at most lg N.
 
 | algorithm | initialize | union | connected |
-| --------------- | ---------------- | --------------- |
+| --------------- | ---------------- | --------------- | --------------- |
 | quick-find | N | N | 1 |
 | quick-union | N | N † | N |
 | weighted QU | N | lg N † | lg N |
