@@ -1,4 +1,6 @@
 //By Alexandros Panagiotakopoulos - alexandrospanag.github.io
+// This work is based from Princeton University, The Book Algorithms 4th Edition which can be found from their official website here
+//https://algs4.cs.princeton.edu/home/
 
 public class QuickUnionUF
 {
