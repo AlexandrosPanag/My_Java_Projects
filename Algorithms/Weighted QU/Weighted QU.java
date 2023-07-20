@@ -13,7 +13,6 @@ public class QuickUnionUF
     private int root(int i)
     {
         while(i!=id[i])  //chase parent pointers until reach root
-            id[i] = id[id[i]]; //with only one extra line of code it becomes weighted!!
             i=id[i];     // (depth of i array accesses)
     }
     public boolean connected(int p, int q){
@@ -22,6 +21,14 @@ public class QuickUnionUF
     public void union(int p, int q){
     int i = root(p);
     int j = root(q); //change root of p to point to root of q
-    id[i]=j;           // depth of p and q array accesses
+     if (i == j){ 
+         return;
+     }
+     if (sz[i] < sz[j]) { 
+         id[i] = j; sz[j] += sz[i]; 
+     }
+     else { 
+         id[j] = i; sz[i] += sz[j]; 
+     } 
     }
 }
