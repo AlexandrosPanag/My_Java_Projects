@@ -1,6 +1,6 @@
 //By Alexandros panagiotakopoulos 
-//based on Coursera's Algorithms I Course | Princeton University
-//https://www.coursera.org/learn/algorithms-part1/ 
+// This work is based from Princeton University, The Book Algorithms 4th Edition which can be found from their official website here
+//https://algs4.cs.princeton.edu/home/
 
 public class QuickFindUF{
     private int[] id;
