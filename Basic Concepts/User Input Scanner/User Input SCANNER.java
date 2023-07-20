@@ -11,6 +11,6 @@ public class HelloGoodbye{
       Scanner secondname = new Scanner(System.in);  // Create a Scanner object
       // Display message
       System.out.println( "Hello " +firstname+ " and "+ secondname); // print the first message
-      System.out.println( "Goodbye " +secondname+ " and "+ firstname); // print the first message
+      System.out.println( "Goodbye " +secondname+ " and "+ firstname); // print the second message
     }
 }
