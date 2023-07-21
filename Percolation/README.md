@@ -1,7 +1,9 @@
 Percolation Project
 --------------
 
+This is my solution to the problem on the Perlocation Project on the course Algorithms I on Coursera by Princeton University.
 
+You can view the fully project specifications more in depth here: https://coursera.cs.princeton.edu/algs4/assignments/percolation/specification.php
 
 
 Percolation. Given a composite systems comprised of randomly distributed insulating and metallic materials: what fraction of the materials need to be metallic so that the composite system is an electrical conductor? Given a porous landscape with water on the surface (or oil below), under what conditions will the water be able to drain through to the bottom (or the oil to gush through to the surface)? Scientists have defined an abstract process known as percolation to model such situations.
@@ -61,3 +63,54 @@ Percolation 150 sites
 Percolation 204 sites
 204 open sites
 
+By repeating this computation experiment T times and averaging the results, we obtain a more accurate estimate of the percolation threshold. Let xt be the fraction of open sites in computational experiment t. The sample mean x¯¯¯
+ provides an estimate of the percolation threshold; the sample standard deviation s; measures the sharpness of the threshold.
+
+x¯¯¯=x1+x2+⋯+xTT,s2=(x1−x¯¯¯)2+(x2−x¯¯¯)2+⋯+(xT−x¯¯¯)2T−1
+Assuming T is sufficiently large (say, at least 30), the following provides a 95% confidence interval for the percolation threshold:
+[x¯¯¯−1.96sT−−√,x¯¯¯+1.96sT−−√]
+To perform a series of computational experiments, create a data type PercolationStats with the following API.
+
+public class PercolationStats {
+
+    // perform independent trials on an n-by-n grid
+    public PercolationStats(int n, int trials)
+
+    // sample mean of percolation threshold
+    public double mean()
+
+    // sample standard deviation of percolation threshold
+    public double stddev()
+
+    // low endpoint of 95% confidence interval
+    public double confidenceLo()
+
+    // high endpoint of 95% confidence interval
+    public double confidenceHi()
+
+   // test client (see below)
+   public static void main(String[] args)
+
+}
+Throw an IllegalArgumentException in the constructor if either n ≤ 0 or trials ≤ 0.
+Also, include a main() method that takes two command-line arguments n and T, performs T independent computational experiments (discussed above) on an n-by-n grid, and prints the sample mean, sample standard deviation, and the 95% confidence interval for the percolation threshold. Use StdRandom to generate random numbers; use StdStats to compute the sample mean and sample standard deviation.
+
+~/Desktop/percolation> java-algs4 PercolationStats 200 100
+mean                    = 0.5929934999999997
+stddev                  = 0.00876990421552567
+95% confidence interval = [0.5912745987737567, 0.5947124012262428]
+
+~/Desktop/percolation> java-algs4 PercolationStats 200 100
+mean                    = 0.592877
+stddev                  = 0.009990523717073799
+95% confidence interval = [0.5909188573514536, 0.5948351426485464]
+
+~/Desktop/percolation> java-algs4 PercolationStats 2 10000
+mean                    = 0.666925
+stddev                  = 0.11776536521033558
+95% confidence interval = [0.6646167988418774, 0.6692332011581226]
+
+~/Desktop/percolation> java-algs4 PercolationStats 2 100000
+mean                    = 0.6669475
+stddev                  = 0.11775205263262094
+95% confidence interval = [0.666217665216461, 0.6676773347835391]
