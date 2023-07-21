@@ -1,12 +1,11 @@
+//By alexandrospanag.github.io - Alexandros Panagiotakopoulos
+
 import edu.princeton.cs.algs4.StdOut;
 import edu.princeton.cs.algs4.StdRandom;
 import edu.princeton.cs.algs4.StdStats;
 
 /**
  * Perform a series of computational experiments.
- *
- * @author Mincong Huang
- * @author Nilesh Deokar (nieldeokar)
  */
 public class PercolationStats {
 
