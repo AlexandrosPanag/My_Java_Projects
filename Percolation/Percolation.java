@@ -1,3 +1,5 @@
+//By Alexandros Panagiotakopoulos - alexandrospanag.github.io
+
 import edu.princeton.cs.algs4.StdOut;
 import edu.princeton.cs.algs4.WeightedQuickUnionUF;
 
@@ -10,8 +12,6 @@ import edu.princeton.cs.algs4.WeightedQuickUnionUF;
  * to gush through to the surface)? Scientists have defined an abstract process
  * known as percolation to model such situations.
  *
- * @author Mincong Huang
- * @author Nilesh Deokar (nieldeokar)
  */
 public class Percolation {
 
