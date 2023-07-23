@@ -1,5 +1,5 @@
 Basic Concepts
 ----
-This folder will contain various and easy to learn solutions.
+This folder contains various and easy to learn solutions.
 
 
