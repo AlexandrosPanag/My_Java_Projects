@@ -6,3 +6,6 @@ https://algs4.cs.princeton.edu/home/
 -----
 
 3-SUM. Given N distinct integers, how many triples sum to exactly zero?
+
+
+This is an algorithm example, using BruteForce of how the 3-Sum problem can be solved.
