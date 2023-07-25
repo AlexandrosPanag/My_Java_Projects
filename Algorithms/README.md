@@ -26,7 +26,8 @@ Order of growth cheat-sheet
 
 
 
-*This article and picture were taken from and can be found here: https://www.geeksforgeeks.org/introduction-to-algorithms/
+*This article was taken from and can be found here: https://www.geeksforgeeks.org/introduction-to-algorithms/
+**This picture was taken from and can be found here: https://algs4.cs.princeton.edu/home/
 
 I also highly recommend you check out this website by Princeton University which contains a lot of useful and valuable information here : https://algs4.cs.princeton.edu/home/
 
