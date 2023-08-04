@@ -10,15 +10,15 @@ public class StackArrayImplementation{
             s = new String[capacity];
         }
 
-        public boolean isEmpty(){
+        public boolean isEmpty(){ //check if empty
             return N == 0;
         }
 
-        public void push(String Item){
+        public void push(String Item){ //used to index into array: then increment N
         s[N++] = item;
         }
 
-        public String pop(){
+        public String pop(){ //used to index into array: then decrement N
         return s[--N];
         }
 }
