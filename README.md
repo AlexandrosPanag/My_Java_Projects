@@ -1,6 +1,13 @@
 My Java Projects
 ---
+
+
+<img src="https://img.shields.io/bower/l/mi">
+
+
 Credits: [@alexandrospanag](https://github.com/alexandrospanag)
+
+
 
 ✅ LinkedIn Skill Assessment badge
 https://www.linkedin.com/in/αλέξανδρος-παναγιωτακόπουλος/
