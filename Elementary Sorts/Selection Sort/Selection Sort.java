@@ -3,7 +3,7 @@
 //https://algs4.cs.princeton.edu/home/
 
 
-public class Selection
+public class SelectionSort
 {
     public static void sort(Comparable[] a)
     {
