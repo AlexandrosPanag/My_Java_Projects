@@ -23,7 +23,7 @@ Java is a programming language and computing platform first released by Sun Micr
 
 THIS ARTICLE WAS TAKEN FROM & CAN BE FOUND HERE: https://www.java.com/en/download/help/whatis_java.html
 
-DISCLAIMER: Most of the codes will require the algs4 library to function.
+DISCLAIMER: Most of the codes will require the algs4 library to function which can be found here: https://algs4.cs.princeton.edu/code/.
 
 
 
