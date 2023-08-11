@@ -1,7 +1,7 @@
 Percolation Project
 --------------
 
-This is my solution to the problem on the Perlocation Project on the course Algorithms I on Coursera by Princeton University.
+This is my solution to the problem on the percolation assignment on the course Algorithms I on Coursera by Princeton University.
 
 You can view the fully project specifications more in depth here: https://coursera.cs.princeton.edu/algs4/assignments/percolation/specification.php
 
