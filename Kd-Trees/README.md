@@ -3,7 +3,7 @@ Kd-Trees
 
 This is my solution to the problem on the Kd-Trees assignment on the course Algorithms I on Coursera by Princeton University.
 
-You can view the fully project specifications more in depth here: https://coursera.cs.princeton.edu/algs4/assignments/kdtree/specification.php
+You can view the full project specifications more in depth here: https://coursera.cs.princeton.edu/algs4/assignments/kdtree/specification.php
 
 
 About this project
