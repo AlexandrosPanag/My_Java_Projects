@@ -3,7 +3,7 @@
 
 This is my solution to the problem on the 8 Puzzle assignment on the course Algorithms I on Coursera by Princeton University.
 
-You can view the fully project specifications more in depth here: https://coursera.cs.princeton.edu/algs4/assignments/8puzzle/specification.php
+You can view the full project specifications more in depth here: https://coursera.cs.princeton.edu/algs4/assignments/8puzzle/specification.php
 
 About this project
 ------
