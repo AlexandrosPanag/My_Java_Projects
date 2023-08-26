@@ -35,7 +35,6 @@ This citation was taken directly from here: https://www.java.com/en/download/hel
 DISCLAIMER: Some of the codes will require the algs4 library to function which can be found here: https://algs4.cs.princeton.edu/code/.
 
 
-Other projects are pure IMPLEMENTATIONS, which means, that in order for them to fully work you need to do a couple of minor changes. The purpose of these implementations is to explain the overall logic behind the problem and suggest a way to solve it.
 
 
 | Compiler/IDE | Download Link |
