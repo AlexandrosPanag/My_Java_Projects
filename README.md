@@ -50,9 +50,6 @@ Java continues to be the backbone of:
 - **Microservices**: Modern distributed system architectures
 - **Financial Services**: High-frequency trading and banking systems
 
-<div align="center">
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/234px-Java_programming_language_logo.svg.png" alt="Java Programming Language" width="150"/>
-</div>
 
 ---
 
@@ -156,25 +153,6 @@ This portfolio demonstrates proficiency in:
 
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
-- Java Development Kit (JDK) 8 or higher
-- Basic understanding of object-oriented programming concepts
-- Familiarity with command-line operations
-
-### Running the Projects
-```bash
-# Compile a Java file
-javac ClassName.java
-
-# Run the compiled class
-java ClassName
-
-# For projects requiring algs4 library
-javac -cp algs4.jar ClassName.java
-java -cp .:algs4.jar ClassName
-```
 
 ---
 
@@ -193,23 +171,8 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 
 ---
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](../../issues).
-
-### How to Contribute
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
 <div align="center">
 
 **[⬆ Back to Top](#java-development-portfolio)**
-
-*Connect with me on [LinkedIn](https://www.linkedin.com/in/αλέξανδρος-παναγιωτακόπουλος/) | Follow me on [GitHub](https://github.com/alexandrospanag)*
 
 </div>
